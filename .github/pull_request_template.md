@@ -56,6 +56,14 @@ If none, write `None`.
 - Integration/channel (if any):
 - Relevant config (redacted):
 
+### Cluster Workflow (if applicable)
+
+- Branch name follows convention (`design/`, `feat/`, `fix/`, `ops/`, `chore/`, `hotfix/`):
+- Design link (PR or doc) or `N/A`:
+- Reviewer sign-off (Beta) or `N/A`:
+- Operator verification (Delta) or `N/A`:
+- Rollback steps included (`Yes/No`):
+
 ### Steps
 
 1.

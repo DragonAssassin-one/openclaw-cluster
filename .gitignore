@@ -23,6 +23,13 @@ ui/test-results/
 packages/dashboard-next/.next/
 packages/dashboard-next/out/
 
+# Local multi-instance runtime state (do not commit)
+$null
+state/
+workspace/
+.fleet/
+.serena/
+
 # Mise configuration files
 mise.toml
 
